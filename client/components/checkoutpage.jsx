@@ -1,5 +1,5 @@
 import React from "react";
-import SummaryIcon from "../photos/SummaryIcon.jpg";
+import SummaryIcon from "../photos/SummaryIcon.webp";
 import { useRecoilState } from "recoil";
 import cartState from "./cartState";
 import { FiTrash2 } from "react-icons/fi";

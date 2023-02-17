@@ -2,7 +2,7 @@ import React, { Fragment, useEffect, useState } from "react";
 import { Dialog, Transition } from "@headlessui/react";
 import shoeState from "./shoeState";
 import { useRecoilState } from "recoil";
-import Dunks1 from "/photos/Dunks1.jpg";
+import Dunks1 from "/photos/Dunks1.webp";
 import sizeState from "../sizeState.jsx";
 import quantityState from "../quantityState.jsx";
 import cartState from "../cartState";

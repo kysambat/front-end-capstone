@@ -1,7 +1,7 @@
 import React from "react";
-import nike_white from "../../photos/nike_white.png";
-import nike_black from "../../photos/nike_black.png";
-import nike_design_your_own from "../../photos/nike_design_your_own.png";
+import nike_white from "../../photos/nike_white.webp";
+import nike_black from "../../photos/nike_black.webp";
+import nike_design_your_own from "../../photos/nike_design_your_own.webp";
 
 const Colors = () => {
   return (
